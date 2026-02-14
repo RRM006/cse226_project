@@ -1,0 +1,14 @@
+course_code,course_name,credits,grade,semester,attempt_number,retake_flag,withdrawal_status
+ENG102,Introduction to Composition,3,A,Spring2023,1,false,false
+MAT116,Pre-Calculus,0,B,Spring2023,1,false,false
+CSE115,Programming Language I,4,A-,Summer2023,1,false,false
+CSE115L,Programming Language I Lab,0,A,Summer2023,1,false,false
+HIS103,Emergence of Bangladesh,3,F,Summer2023,1,false,false
+PHY107,Physics I,3,C+,Fall2023,1,false,false
+PHY107L,Physics I Lab,1,B,Fall2023,1,false,false
+CSE173,Discrete Mathematics,3,W,Fall2023,1,false,true
+MAT120,Calculus I,3,B-,Spring2024,1,false,false
+HIS103,Emergence of Bangladesh,3,B+,Spring2024,2,true,false
+CSE215,Programming Language II,4,A,Summer2024,1,false,false
+CSE215L,Programming Language II Lab,0,A,Summer2024,1,false,false
+CSE225,Data Structures and Algorithm,3,F,Fall2024,1,false,false
