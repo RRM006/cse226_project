@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# cse226_project
-Project 1 : Audit Core System
-=======
 # NSU Audit Core System
 
 ## Overview
@@ -275,4 +271,3 @@ For questions or issues:
 - Review the PRD document: `NSU_Audit_Core_PRD.md`
 - Check test specifications: `testing_plan.md`
 - Consult course instructor during office hours
-
